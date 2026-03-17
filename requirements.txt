@@ -1,3 +1,18 @@
 pandas
 matplotlib
 textblob
+
+📥 Dataset real
+
+Buscar en Kaggle:
+
+👉 "Twitter Sentiment Dataset"
+
+Ejemplo de columnas:
+
+text
+label
+
+Guardar como:
+
+data/tweets.csv
