@@ -1,0 +1,13 @@
+sentiment-analysis-social-media/
+│
+├── data/
+│   └── tweets.csv
+│
+├── notebook/
+│   └── sentiment_analysis.ipynb
+│
+├── images/
+│   └── sentiment_distribution.png
+│
+├── README.md
+└── requirements.txt
